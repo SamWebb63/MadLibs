@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Mad Libs</string>
+    <string name="nn1">THING</string>
+    <string name="vrb1">VERB</string>
+    <string name="nn2">THING</string>
+    <string name="nn3">THING</string>
+    <string name="nn4">NAME</string>
+    <string name="vrb2">VERB</string>
+    <string name="vrb3">VERB</string>
+    <string name="vrb4">VERB</string>
+    <string name="nn5">PLACE</string>
+    <string name="nn6">THING</string>
+    <string name="vrb5">VERB</string>
+</resources>
