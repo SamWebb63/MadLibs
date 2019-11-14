@@ -15,11 +15,19 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun sendMessage(view: View) {
-        val editText = findViewById<EditText>(R.id.editText)
-        val message = editText.text.toString()
-        val intent = Intent(this, storyscreen::class.java).apply {
-            putExtra(EXTRA_MESSAGE, message)
-        }
-        startActivity(intent)
+        val nn1 = findViewById<EditText>(R.id.nn1)
+        val vrb1 = findViewById<EditText>(R.id.vrb1)
+        val nn2 = findViewById<EditText>(R.id.nn2)
+        val nn3 = findViewById<EditText>(R.id.nn3)
+        val nn4 = findViewById<EditText>(R.id.nn4)
+        val vrb2 = findViewById<EditText>(R.id.vrb2)
+        val vrb3 = findViewById<EditText>(R.id.vrb3)
+        val vrb4 = findViewById<EditText>(R.id.vrb4)
+        val nn5 = findViewById<EditText>(R.id.nn5)
+        val nn6 = findViewById<EditText>(R.id.nn6)
+        val vrb5 = findViewById<EditText>(R.id.vrb5)
+
+        
     }
+
 }
